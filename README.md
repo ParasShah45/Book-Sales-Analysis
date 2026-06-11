@@ -1,5 +1,6 @@
-## Book Sales EDA Analysis
+#EDA Project
 
+## Book Sales EDA Analysis
 
 ## Project Overview
 
