@@ -1,4 +1,4 @@
-#EDA Project
+# EDA Project
 
 ## Book Sales EDA Analysis
 
